@@ -1,0 +1,11 @@
+package com.codegnan.SpringDemo_02;
+
+import org.springframework.context.ApplicationContext;
+
+public class App {
+	public static void main(String[] args) {
+		
+		ApplicationContext ctxt = ctxt.Class
+		System.out.println("Hello World!");
+	}
+}

@@ -1,0 +1,9 @@
+package com.codegnan.SpringDemo_02.beans;
+
+public class Employee {
+	
+	int id;
+	String name;
+	String email;
+
+}

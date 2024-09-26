@@ -1,0 +1,11 @@
+package com.codegnan.SpringDemo_01.beans;
+
+public class Address {
+	
+	int flatNo;
+	String area;
+	String city;
+	
+	
+
+}
